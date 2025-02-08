@@ -7,7 +7,6 @@ This repository contains various data science projects covering exploratory data
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Projects Overview
 ### 1. Analytics Dashboard
